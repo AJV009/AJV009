@@ -3,15 +3,6 @@
 ## AI & Security Enthusiast! Jack of all trades! 😄😄
 ### ⚡ Fun fact: I can do anything! Even you can, because its in your brain what you want to do!
 
-### My Toolbox! 😎
-(Its kind of filled with a ton of technolgoies! I like exploring every new technoglogy in the feild of AI and Security. I love Computers!) <br>
-So I dont wanna name everything here except for some that am right now focusing on -
-- Python
-- Scikit-Learn
-- PyTorch
-- Burp Suit
-- CodeQL
-
 ### 🔭 I’m currently working on a Yolo5 model for some fun object recognition.
 ### 🌱 I’m currently learning PyTorch for a Devpost hackathon and Burp Suit & CodeQL for Security Analysis.
 ### 💬 Ask me about "Anything". If you are new to the world of Computer Science am here to help your grow! Join in my one of the biggest FB Developer Group -> https://www.facebook.com/groups/DevCPune
@@ -27,4 +18,32 @@ So I dont wanna name everything here except for some that am right now focusing 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+### My Toolbox! 😎
+<details align="center">
+    <summary align="center"><strong>My Huge Box:</strong></summary>
+     <table align="center">
+         <tr align="center">
+             <td  align = "center"><img src="https://i.ibb.co/Z243jtW/java.png" alt="java" border="0"><br>Java</td>
+             <td  align = "center"><img src="https://i.ibb.co/8BvfsCp/kotlin.png" alt="kotlin" border="0"><br>Kotlin</td>
+             <td  align = "center"><img src="https://i.ibb.co/sqwPMvX/python.png" alt="python" border="0"><br>Python</td>
+             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/c-programming.png"/><br>C</td>
+             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/c-plus-plus-logo.png"/><br>C++</td>
+             <td  align = "center"><img src="https://i.ibb.co/gTdhjV3/matlab.png"/><br>Matlab</td>
+             <td  align = "center"><img src="https://i.ibb.co/P9K1CDZ/c-sharp.png"/><br>C#</td>
+             <td  align = "center"><img src="https://i.ibb.co/hBz8LSr/q-sharp.png"/><br>Q#</td>
+         </tr>
+         <tr align="center">
+             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/javascript.png"/><br>JavaScript</td>
+             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/typescript.png"/><br>TypeScript</td>
+             <td  align = "center"><img src="https://i.ibb.co/GpjMcGZ/dart.png" alt="dart" border="0"><br>Dart</td>
+             <td  align = "center"><img src="https://img.icons8.com/fluent/24/000000/console.png"/><br>Shell</td>
+             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/html-5.png"/><br>HTML</td>
+             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/css3.png"/><br>CSS</td>
+             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/json--v1.png"/><br>Json</td>
+             <td  align = "center"><img src="https://img.icons8.com/ios-filled/24/000000/mysql-logo.png"/><br>SQL</td>
+         </tr>
+     </table>
+        </details>
 -->
