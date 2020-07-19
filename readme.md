@@ -14,7 +14,7 @@ So I dont wanna name everything here except for some that am right now focusing 
 
 #### 🔭 I’m currently working on a Yolo5 model for some fun object recognition.
 #### 🌱 I’m currently learning PyTorch for a Devpost hackathon and Burp Suit & CodeQL for Security Analysis.
-#### 💬 Ask me about "Anything". If you are new to the world of Computer Science am there to help your grow!
+#### 💬 Ask me about "Anything". If you are new to the world of Computer Science am here to help your grow! Join in my one of the biggest FB Developer Group -> https://www.facebook.com/groups/DevCPune
 #### 📫 How to reach me -> Email: jaimonalphons@gmail.com Whatsapp/Phone: +91-823-784-2347
 
 <!--
