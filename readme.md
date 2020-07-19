@@ -18,4 +18,4 @@ I love building for the social good!
 ![Julia](https://img.shields.io/badge/Language-Julia-Green)
 ![R](https://img.shields.io/badge/Language-R-Green)
 
-![GitHub followers](https://img.shields.io/github/followers/AJV009?style=flat-square)
+![Flutter](https://img.shields.io/badge/Framework-Flutter-Green)
