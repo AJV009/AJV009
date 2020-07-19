@@ -10,7 +10,9 @@ I love building for the social good!
 ![Scikit_Learn](https://img.shields.io/badge/Scikit_Learn-Beginner-Yellow)
 ![Julia](https://img.shields.io/badge/Julia-Beginner-Red)
 ![R](https://img.shields.io/badge/R-Beginner-Blue)
-![PL/SQL](https://img.shields.io/badge/PL_SQL-Beginner-Blue)
+![SQL](https://img.shields.io/badge/SQL-Beginner-Blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-Beginner-Orange)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Beginner-Orange)
 
 ### Security & Testing
 ![Burp Suit](https://img.shields.io/badge/Burp_Suit-Beginner-Orange)
