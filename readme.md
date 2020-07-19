@@ -6,13 +6,13 @@ I love building for the social good!
 
 # My Toolbox
 ### Machine Learning
-![Python](https://img.shields.io/badge/Python-Green)
-![Scikit_Learn](https://img.shields.io/badge/Scikit_Learn-Yellow)
-![Julia](https://img.shields.io/badge/Julia-Red)
-![R](https://img.shields.io/badge/R-Blue)
-![SQL](https://img.shields.io/badge/SQL-Blue)
-![PyTorch](https://img.shields.io/badge/PyTorch-Orange)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Orange)
+- Python
+- Scikit-Learn
+- Julia
+- R
+- SQL
+- PyTorch
+- TensorFlow
 
 ### Security & Testing
 ![Burp Suit](https://img.shields.io/badge/Burp_Suit-Orange)
