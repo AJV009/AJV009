@@ -1,14 +1,23 @@
 
 ![FaceRecognitionImg](https://raw.githubusercontent.com/AJV009/AJV009/master/img001e.webp)
 ## AI & Security Enthusiast! Jack of all trades! 😄😄
-⚡ Fun fact: I can do anything! Even you can, because its in your brain what you want to do!
+### ⚡ Fun fact: I can do anything! Even you can, because its in your brain what you want to do!
 
-### My Toolbox!
+### My Toolbox! 😎
+(Its kind of filled with a ton of technolgoies! I like exploring every new technoglogy in the feild of AI and Security. I love Computers!) <br>
+So I dont wanna name everything here except for some that am right now focusing on -
+- Python
+- Scikit-Learn
+- PyTorch
+- Burp Suit
+- CodeQL
+
+#### 🔭 I’m currently working on a Yolo5 model for some fun object recognition.
+#### 🌱 I’m currently learning PyTorch for a Devpost hackathon and Burp Suit & CodeQL for Security Analysis.
+#### 💬 Ask me about "Anything". If you are new to the world of Computer Science am there to help your grow!
+#### 📫 How to reach me -> Email: jaimonalphons@gmail.com Whatsapp/Phone: +91-823-784-2347
+
 <!--
-**amannirala13/amannirala13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
