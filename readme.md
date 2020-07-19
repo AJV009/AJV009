@@ -4,4 +4,4 @@
 I am a Web & App Developer, Security Tester, ML/AI Enthusiast.
 I love building for the social good!
 
-![GitHub followers](https://img.shields.io/github/followers/AJV009?style=social)
+![GitHub followers](https://img.shields.io/github/followers/AJV009?style=flat-square)
