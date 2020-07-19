@@ -6,7 +6,7 @@ I love building for the social good!
 
 # My Toolbox
 ### Machine Learning
-![Python](https://img.shields.io/badge/Python-Intermediate-Green)
+![Python](https://img.shields.io/badge/Intermediate-Green)
 ![Scikit_Learn](https://img.shields.io/badge/Scikit_Learn-Beginner-Yellow)
 ![Julia](https://img.shields.io/badge/Julia-Beginner-Red)
 ![R](https://img.shields.io/badge/R-Beginner-Blue)
