@@ -5,6 +5,7 @@ I am a Web & App Developer, Security Tester, ML/AI Enthusiast.
 I love building for the social good!
 
 # My Toolbox
+### Languages
 ![Python](https://img.shields.io/badge/Language-Python-Green)
 ![Android Dart](https://img.shields.io/badge/Language-Android_Dart-Green)
 ![C](https://img.shields.io/badge/Language-C-Green)
@@ -16,6 +17,7 @@ I love building for the social good!
 ![PHP](https://img.shields.io/badge/Language-PHP-Green)
 ![Go](https://img.shields.io/badge/Language-Go-Green)
 ![Julia](https://img.shields.io/badge/Language-Julia-Green)
-![R](https://img.shields.io/badge/Language-R-Green)
+![R](https://img.shields.io/badge/_-R-Green)
 
-![Flutter](https://img.shields.io/badge/Framework-Flutter-Green)
+### Framework
+![Flutter](https://img.shields.io/badge/_-Flutter-Green)
