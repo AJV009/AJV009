@@ -6,7 +6,7 @@ I love building for the social good!
 
 # My Toolbox
 ![Python](https://img.shields.io/badge/Language-Python-Green)
-![Android Dart](https://img.shields.io/badge/Language-Android-Dart-Green)
+![Android Dart](https://img.shields.io/badge/Language-Android_Dart-Green)
 ![C](https://img.shields.io/badge/Language-C-Green)
 ![Cpp](https://img.shields.io/badge/Language-C++-Green)
 ![HTML](https://img.shields.io/badge/Language-HTML-Green)
