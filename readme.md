@@ -1,13 +1,12 @@
 
 ![FaceRecognitionImg](https://raw.githubusercontent.com/AJV009/AJV009/master/img001e.webp)
 ## AI & Security Enthusiast! Jack of all trades! 😄😄
-### ⚡ Fun fact: I can do anything! Even you can, because its in your brain what you want to do!
-
-### 🔭 I’m currently working on a Yolo5 model for some fun object recognition.
-### 🌱 I’m currently learning PyTorch for a Devpost hackathon and Burp Suit & CodeQL for Security Analysis.
-### 💬 Ask me about "Anything". If you are new to the world of Computer Science am here to help your grow! Join in my one of the biggest FB Developer Group -> https://www.facebook.com/groups/DevCPune
-### 🔎 Check out https://ajv009.github.io/ to know more about me!
-### 📫 How to reach me -> Email: jaimonalphons@gmail.com Whatsapp/Phone: +91-823-784-2347
+ ⚡ Fun fact: I can do anything! Even you can, because its in your brain what you want to do! <br>
+ 🔭 I’m currently working on a Yolo5 model for some fun object recognition. <br>
+ 🌱 I’m currently learning PyTorch for a Devpost hackathon and Burp Suit & CodeQL for Security Analysis. <br>
+ 💬 Ask me about "Anything". If you are new to the world of Computer Science am here to help your grow! Join in my one of the biggest FB Developer Group -> https://www.facebook.com/groups/DevCPune <br>
+ 🔎 Check out https://ajv009.github.io/ to know more about me! <br>
+ 📫 How to reach me -> Email: jaimonalphons@gmail.com Whatsapp/Phone: +91-823-784-2347 <br>
 
 <!--
 - 🔭 I’m currently working on ...
