@@ -1,5 +1,5 @@
 
-![FaceRecognitionImg](https://raw.githubusercontent.com/AJV009/AJV009/master/img001e.jpg)
+![FaceRecognitionImg](https://raw.githubusercontent.com/AJV009/AJV009/master/img001e.webp)
 # Happy to see you watching my profile!
 I am a Web & App Developer, Security Tester, ML/AI Enthusiast. <br>
 I love building for the social good!
