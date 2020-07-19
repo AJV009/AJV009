@@ -1,7 +1,7 @@
 
 ![FaceRecognitionImg](/img001e.webp)
 # Happy to see you watching my profile!
-I am a Web & App Developer, Security Tester, ML/AI Enthusiast.
+I am a Web & App Developer, Security Tester, ML/AI Enthusiast. <br>
 I love building for the social good!
 
 # My Toolbox
@@ -29,6 +29,6 @@ I love building for the social good!
 ![Java](https://img.shields.io/badge/Java-Beginner-Orange)
 
 ### Other Languages
-![C](https://img.shields.io/badge/Language-C-Green)
-![Cpp](https://img.shields.io/badge/Language-C++-Green)
-![Go](https://img.shields.io/badge/Language-Go-Green)
+![C](https://img.shields.io/badge/Language-C-Blue)
+![Cpp](https://img.shields.io/badge/Language-C++-Blue)
+![Go](https://img.shields.io/badge/Language-Go-Blue)
