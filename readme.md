@@ -1,6 +1,6 @@
 
 ![FaceRecognitionImg](https://raw.githubusercontent.com/AJV009/AJV009/master/img001e.webp)
-## A ML/AI & Security Enthusiast!
+## AI & Security Enthusiast! Jack of all trades! 😄😄
 ⚡ Fun fact: I can do anything! Even you can, because its in your brain what you want to do!
 
 ### My Toolbox!
